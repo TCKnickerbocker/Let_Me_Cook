@@ -1,0 +1,81 @@
+.addButton{
+    color:  #0d2714;
+    background-color: #58b16e;
+    padding: 0.5em;
+    margin: 1em;
+    border: none;
+    border-radius: 5px ;
+    width: 8em;
+    
+}
+.addButton:hover{
+   
+    background-color:  #4cba68;
+ }
+.editButton{
+    color:  #0d2714;
+    background-color: #eeeca3;
+    padding: 0.5em;
+    margin: 0.5em;
+    border-radius: 5px;
+    border: none;
+    width: 8em;
+    text-decoration: none;
+}
+.editButton:hover{
+    background-color: #d0ce86;
+}
+
+.saveButton{
+    color:  #0d2714;
+    background-color: #58b16e;
+    padding: 0.5em;
+    margin: 0.5em;
+    border: none;
+    border-radius: 5px;
+    width: 8em;
+}
+.saveButton:hover{
+   
+    background-color:  #35b148;
+ }
+.removeButton{
+    color:  #0d2714;
+    background-color: #b85144;
+    padding: 0.5em;
+    margin: 0.5em;
+    border: none;
+    border-radius: 5px;
+    width: 8em;
+}
+.removeButton:hover{
+    background-color: #b52b2b;
+}
+.minusButton{
+    color:  #0d2714;
+    background-color: #b85144;
+    margin-left: 20%;
+    border: none;
+    border-radius: 5px;
+    width: 2em;
+}
+.minusButton:hover{
+    background-color: #b52b2b;
+}
+.linkButton{
+    color:  #0d2714;
+    background-color: #58b16e;
+    width: 110%;
+    border: none;
+    border-radius: 5px;
+    flex-grow: 1;
+}
+.linkButton:hover{
+    background-color: #35b148;
+}
+@media only screen and (min-width: 1000px) {
+    /* why? */
+    /* .linkButton:after{
+        content: " to food";
+    } */
+}

@@ -1,0 +1,27 @@
+.container{
+    background-color: #58b16e;
+}
+
+.removewhensmall{
+    display: none;
+}
+
+.x{
+    justify-content:end;
+    color:red;
+    background-color: red;
+}
+
+.logoutIcon{
+    height: 1.65em;
+    width:1.65em;
+    margin-left: 1em;
+}
+
+
+@media only screen and (min-width: 600px) {
+    .removewhensmall{
+        display:block;
+    }
+    
+  }
