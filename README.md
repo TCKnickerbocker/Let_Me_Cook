@@ -9,7 +9,7 @@ Virtual Pantry is a website that will help you with all of your meal planning tr
 
 <figure>
   <img width="1440" alt="Screenshot 2024-06-27 at 7 06 16 PM" src="https://github.com/OwenRatgen/Virtual-Pantry/assets/78979318/98e1f14c-eefe-4e64-b66e-036a23cf77dd">
-  <figcaption style={text-align: "center"}>Food Page</figcaption>
+  <figcaption style={"text-align: center"}>Food Page</figcaption>
 </figure>
 
 <figure>
