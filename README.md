@@ -1,71 +1,36 @@
-# Module 2 Group Assignment
+# <a href="https://kind-tree-0e95d6c0f.5.azurestaticapps.net/login">Virtual Pantry</a>
+Virtual Pantry is a website that will help you with all of your meal planning troubles! Let's say you're hungry, then you look in your fridge and think "Ugh I have no food" (when you really do, you just don't know what to make with your ingredients). This is exactly where Virtual Pantry will help! You simply just need to add the food you have and how much, then Virtual Pantry will search through it's extensive database of recipes and will show you what you can make.
 
-CSCI 5117, Spring 2024, [assignment description](https://canvas.umn.edu/courses/413159/pages/project-2)
+## Screenshots:
+<figure>
+  <img width="1437" alt="Screenshot 2024-06-27 at 7 02 05 PM" src="https://github.com/OwenRatgen/Virtual-Pantry/assets/78979318/78d122c7-0013-4f09-9251-55a2dc1a747f">
+  <figcaption>Login Page</figcaption>
+</figure>
 
-## App Info:
+<figure>
+  <img width="1440" alt="Screenshot 2024-06-27 at 7 06 16 PM" src="https://github.com/OwenRatgen/Virtual-Pantry/assets/78979318/98e1f14c-eefe-4e64-b66e-036a23cf77dd">
+  <figcaption>Food Page</figcaption>
+</figure>
 
-* Team Name: The Flask Fusion Force
-* App Name: Let Me Cook
-* App Link: <https://kind-tree-0e95d6c0f.5.azurestaticapps.net>
+<figure>
+  <img width="1440" alt="Screenshot 2024-06-27 at 7 14 44 PM" src="https://github.com/OwenRatgen/Virtual-Pantry/assets/78979318/3f0f93e6-987e-4954-9d15-22a6961a71cc">
+  <figcaption>Recipes Page</figcaption>
+</figure>
 
-### Students
+<figure>
+  <img width="1440" alt="Screenshot 2024-06-27 at 7 07 20 PM" src="https://github.com/OwenRatgen/Virtual-Pantry/assets/78979318/f3a02e45-2268-4818-9218-28171c8213e1">
+  <figcaption>Single Recipe</figcaption>
+</figure>
 
-* Conner DeJong, dejon113@umn.edu
-* Kris Moe, moe00013@umn.edu
-* Allen Liao, liao0144@umn.edu
-* Thomas Knickerbocker, knick073@umn.edu
-* Owen Ratgen, ratge006@umn.edu
+<figure>
+  <img width="1440" alt="Screenshot 2024-06-27 at 7 08 14 PM" src="https://github.com/OwenRatgen/Virtual-Pantry/assets/78979318/6fcf3465-08c6-4be5-b222-e052976d62e1">
+  <figcaption>Search for Food in Pantry</figcaption>
+</figure>
 
-
-## Key Features
-
-**Describe the most challenging features you implemented
-(one sentence per bullet, maximum 4 bullets):**
-
-* Allowing users to modify images for individual foods and recipes based on file or camera input
-* A dragging mechanism on the recipes queue page to allow users to re-order the recipes to see more relevant ones on top
-
-Which (if any) device integration(s) does your app support?
-
-* Camera support (to replace images of foods in their "pantry" and recipes they have or will cook)
-
-Which (if any) progressive web app feature(s) does your app support?
-
-* N/A
-
-
-
-## Mockup images
-
-**[Link to our Canva Mockup](https://www.canva.com/design/DAGAcky4OlU/zWBVUIILFJjYH-Ltm1b3uw/edit?utm_content=DAGAcky4OlU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) HIGHLY RECOMMEND LOOKING AT THIS FOR CLARIFYING NAVIGATION BETWEEN PAGES**
-
-**![Landing Page](/MOCKUP/LMC_landing_page.png?raw=true)Where users are brought to upon loading the homepage.**
-**![Ingredients Page](/MOCKUP/LMC_ingredients_page.png?raw=true)Shows ingredients/foods within the user's virtual pantry.**
-**![View Ingredient Page](/MOCKUP/LMC_view_ingredients_page.png?raw=true)Shows some attributes of the ingredient/food item.**
-**![Edit Ingredient Page](/MOCKUP/LMC_edit_ingredients_page.png?raw=true)Allows user to manually modify the attributes of the ingredient if necessary.**
-**![Search Ingredients Page](/MOCKUP/LMC_search_ingredients_page.png?raw=true)Shows search results for an ingredient/food item name.**
-**![Recipes Page](/MOCKUP/LMC_recipes_page.png?raw=true)Lists recipes the user has shown interest in (recently searched for).**
-**![View Recipe Page](/MOCKUP/LMC_view_recipes_page.png?raw=true)Shows additional information for a specific recipe.**
-**![Edit Recipe Page](/MOCKUP/LMC_edit_recipes_page.png?raw=true)Allows user to modify information and attributes of a specific recipe.**
-**![Recipes Queue Page](/MOCKUP/LMC_recipes_queue_page.png?raw=true)Shows queue of recipes the user will be making in the near future. Ingredients in green have sufficient amounts to be utilized for that given recipe at that point in the queue. Ingredients in red will not have sufficient amounts and should be restocked before the recipe is prepared.**
-
-
-## Testing Notes
-
-**Is there anything special we need to know in order to effectively test your app? (optional):**
-
-* If the image of a food or recipe is clicked and replaced with a picture from a camera (or file), the object must be "saved" in order for the displayed image to refresh. This is the indicator that the image has successfully saved to blob storage.
-
-
-
-## Screenshots of Site (complete)
-
-**[Add a screenshot of each key page](https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository)
-along with a very brief caption:**
-
-![](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
-
-
+<figure>
+  <img width="1440" alt="Screenshot 2024-06-27 at 7 10 18 PM" src="https://github.com/OwenRatgen/Virtual-Pantry/assets/78979318/75fcba43-091b-4cfb-88a0-f7f576958cc4">
+  <figcaption>Food is in Pantry</figcaption>
+</figure>
 
 ## External Dependencies
 
