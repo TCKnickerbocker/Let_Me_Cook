@@ -1,6 +1,14 @@
 # <a href="https://zealous-sea-0a23c9610.5.azurestaticapps.net/login">Virtual Pantry</a>
 Virtual Pantry is a website that will help you with all of your meal planning troubles! Let's say you're hungry, then you look in your fridge and think "Ugh I have no food" (when you really do, you just don't know what to make with your ingredients). This is exactly where Virtual Pantry will help! You simply just need to add the food you have and how much, then Virtual Pantry will search through it's extensive database of recipes and will show you what you can make.
 
+## Wanna Help?
+<li>
+  <ol>Clone the project onto your computer</ol>
+  <ol>Go to the issues tab in the Github repository</ol>
+  <ol>Select the issue you want to work on, assign yourself, then create the new branch for that issue</ol>
+  <ol>Repeat 3</ol>
+</li>
+
 ## Screenshots:
 <figure>
   <img width="1437" alt="Screenshot 2024-06-27 at 7 02 05 PM" src="https://github.com/OwenRatgen/Virtual-Pantry/assets/78979318/78d122c7-0013-4f09-9251-55a2dc1a747f">
