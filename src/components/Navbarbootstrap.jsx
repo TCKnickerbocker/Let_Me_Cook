@@ -4,17 +4,14 @@ import Navbar from 'react-bootstrap/Navbar';
 import Layout from "../css/ItemPageLayout.module.css";
 import styles from "../css/NavbarBootstrap.module.css";
 import { Link } from 'react-router-dom';
-import logo from '../assets/logo.png';
-import { ReactComponent as Logout }  from '../assets/logout.svg';
+import { ReactComponent as Logout }  from '../assets/logout.svg'
 
 function ColorSchemesExample() {
   return (
     <>
       <Navbar className={styles.container} sticky="top">
         <Container>
-          <Navbar.Brand href="/" className={styles.removewhensmall}>
-            <img src={logo} alt="Logo" className={styles.logoImage} />
-          </Navbar.Brand>
+          <Navbar.Brand href="/" className={styles.removewhensmall}>Let Me Cook</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link as={Link} to="/">Home</Nav.Link>
             <Nav.Link as={Link} to="/foods">Food</Nav.Link>
@@ -24,10 +21,11 @@ function ColorSchemesExample() {
           <Nav>
             <Nav.Link className={"ml-auto"} href="/.auth/logout">
               <div className={Layout.row}>
-                <div className={styles.removewhensmall}>{"Logout  "} </div>
-                <Logout className={styles.logoutIcon}/> 
+              <div className={styles.removewhensmall}>{"Logout  "} </div>
+              <Logout className={styles.logoutIcon}/> 
               </div>
-            </Nav.Link>
+              </Nav.Link>
+              
           </Nav>
         </Container>
       </Navbar>
