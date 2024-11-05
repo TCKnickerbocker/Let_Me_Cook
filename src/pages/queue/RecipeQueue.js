@@ -33,7 +33,8 @@ export default function RecipeQueue() {
         method: "GET",
       });
       if (!res.ok) {
-        window.alert("Error getting user's recipe queue!");
+        // window.alert("Error getting user's recipe queue!");
+        console.log(res);
         return;
       }
       const body = await res.json();

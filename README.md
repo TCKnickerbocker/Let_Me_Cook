@@ -4,7 +4,7 @@ Virtual Pantry is a website that will help you with all of your meal planning tr
 # App Info:
 - Team Name: The Flask Fusion Force
 - App Name: Let Me Cook
-- App Link: https://kind-tree-0e95d6c0f.5.azurestaticapps.net
+- App Links: https://zealous-sea-0a23c9610.5.azurestaticapps.net/login, https://kind-tree-0e95d6c0f.5.azurestaticapps.net
 
 ## Creators:
 - Conner DeJong, dejon113@umn.edu
@@ -23,4 +23,4 @@ A Tutorial of Bootstrap which we made:
 - https://medium.com/@tcknickerbocker/how-to-style-your-react-apps-with-react-bootstrap-73a6f5f5ecea \
 
 <br>
-<div align="center"><strong>**This repo was a school project in Spring of 2024**</strong></div>
+<div align="center"><strong>**Functioning deployments via https://github.com/OwenRatgen/Let-Me-Cook**</strong></div>

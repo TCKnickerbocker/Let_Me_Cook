@@ -19,9 +19,9 @@ export default function Landing() {
         (async () => {
             setExpiringLoading(true);
             const res = await fetch("/api/foods/expiring", { method: "GET" })
+            console.log(res);
             if (!res.ok) {
-                console.log(res)
-                window.alert("Error getting expiring foods!")
+                // window.alert("Error getting expiring foods!")
                 return
             }
             const resJson = await res.json()
