@@ -20,8 +20,8 @@ Virtual Pantry is a website that will help you with all of your meal planning tr
 
 ## Misc & Notes
 A Tutorial of Bootstrap which we made:
-- https://medium.com/@tcknickerbocker/how-to-style-your-react-apps-with-react-bootstrap-73a6f5f5ecea
+- https://medium.com/@tcknickerbocker/how-to-style-your-react-apps-with-react-bootstrap-73a6f5f5ecea \
 
 
-**This repo was a school project in Spring of 2024**
+\*\***This repo was a school project in Spring of 2024**\*\*
 
